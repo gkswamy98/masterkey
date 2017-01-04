@@ -12,5 +12,7 @@ void loop(){
     int readByte = Serial.read();
     tag = (tag * 100) + readByte;
   }
-  Serial.println(tag);
+  if(tag >= 0){
+    Serial.println(tag);
+  }
 }
