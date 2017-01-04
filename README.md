@@ -1,4 +1,7 @@
 # unikey
+
+![Circuit](/IMG_5925.JPG?raw=true)
+
 Arduino-enabled keycard access for dorms.
 
 ## Hardware
