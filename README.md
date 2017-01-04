@@ -11,5 +11,7 @@ RFID Reader(https://www.sparkfun.com/products/11828) x1<br>
 Motor Driver (https://www.sparkfun.com/products/12779) x1<br>
 Power Source (https://www.adafruit.com/product/798) x1
 
+RFID Tags (if ID card not compatible) (https://www.sparkfun.com/products/9417)
+
 ## Setup
 Instructions [here](https://medium.com/@gkswamy98/unikey-arduino-enabled-keycard-access-for-dorms-f1a73e726498). 
