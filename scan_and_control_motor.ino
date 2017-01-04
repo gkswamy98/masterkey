@@ -1,4 +1,4 @@
-int RFIDResetPin = 13;
+int RFIDResetPin = 4;
 int MotorStepPin = 2;
 int tagID = 1234567890;
 
